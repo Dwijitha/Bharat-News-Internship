@@ -1,17 +1,16 @@
 # News Profile App
 
-News Profile App is a web application built using ReactJS that allows users to view and manage their news profiles.
+This is a news profile app that allows users to view published articles and bookmarked articles.
 
-## Table of Contents
+## Features
 
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
+- View published articles
+- Bookmark articles
+- View bookmarked articles
 
 ## Installation
 
-To install the necessary dependencies for the News Profile App, run the following command:
+1. Clone the repository:
 
 ```bash
-npm install
+git clone https://github.com/your-username/news-profile-app.git
